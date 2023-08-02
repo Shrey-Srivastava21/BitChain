@@ -1,0 +1,62 @@
+{
+  "base": {
+    "active": "Active",
+    "allowAll": "Allow All",
+    "allowAnyoneCompound": "Allow anyone to compound rewards on your behalf.",
+    "allowAnyoneCompoundWithdraw": "Allow anyone to compound or withdraw rewards on your behalf.",
+    "allowAnyoneWithdraw": "Allow anyone to withdraw rewards on your behalf.",
+    "allowCompound": "Allow Compound",
+    "allowWithdraw": "Allow Withdraw",
+    "community": "Community",
+    "feedback": "Feedback",
+    "goTo": "Go To",
+    "help": "Help",
+    "inactive": "Inactive",
+    "network": "Network",
+    "nominate": "Nominate",
+    "overview": "Overview",
+    "payee": {
+      "account": {
+        "subtitle": "Send payouts to another account as free balance.",
+        "title": "To Another Account"
+      },
+      "none": {
+        "subtitle": "Have no payout destination set.",
+        "title_active": "Not Assigned",
+        "title_default": "None"
+      },
+      "staked": {
+        "subtitle": "Add payouts to your existing staked balance automatically.",
+        "title_active": "Compounding",
+        "title_default": "Compound"
+      },
+      "stash": {
+        "subtitle": "Payouts are sent to your account as free balance.",
+        "title": "To Your Account"
+      }
+    },
+    "payouts": "Payouts",
+    "pools": "Pools",
+    "resources": "Resources",
+    "stake": "Stake",
+    "support": "Support",
+    "time": {
+      "day_one": "day",
+      "day_other": "days",
+      "hour_one": "hour",
+      "hour_other": "hours",
+      "hr_one": "hr",
+      "hr_other": "hrs",
+      "min_one": "min",
+      "min_other": "mins",
+      "minute_one": "minute",
+      "minute_other": "minutes",
+      "second_one": "second",
+      "second_other": "seconds"
+    },
+    "title_kusama": "Kusama Staking Dashboard",
+    "title_polkadot": "Polkadot Staking Dashboard",
+    "title_westend": "Westend Staking Dashboard",
+    "validators": "Validators"
+  }
+}
