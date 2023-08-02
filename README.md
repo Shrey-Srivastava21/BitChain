@@ -79,8 +79,7 @@
 
 ## Useful Links
 
-- [Deployed Website](https://moviemain.herokuapp.com/)
-- [Demo Video](https://youtu.be/UWnl8ZfCRbM)
+- [Demo Video](https://www.youtube.com/watch?v=KWLtXoXuolo)
 - [Project Document](https://docs.google.com/document/d/12lBQhMSxpQmOr9FfGx3_N1PBw4JnVG3V/edit?usp=sharing&ouid=118390843235869996179&rtpof=true&sd=true)
 
 ## Need help?
