@@ -62,7 +62,7 @@
 ## Instructions
 
 
-1. `git clone https://github.com/Shrey-Srivastava21/movie.git` 
+1. `git clone https://github.com/Shrey-Srivastava21/Luganodes_SDE_Task_2` 
 
 2. Install node dependencies 
    - `npm install`
