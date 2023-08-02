@@ -8,8 +8,8 @@
 
 ## Main Page of Website📌
 
-![Screenshot1](https://github.com/Shrey-Srivastava21/Demooooooo/assets/84815622/95cb234e-fc54-4ab2-9ad8-6f166834940f)
-![Screenshot2](https://github.com/Shrey-Srivastava21/Demooooooo/assets/84815622/7a4caf1f-9323-411b-a8ae-84d260074f1c)
+<img width="1739" alt="Screenshot 2023-06-16 at 01 23 08" src="https://github.com/AdityaBhate/stake-count-dashboard/assets/98549181/609fe975-7bfe-4eb6-b80e-9fb2c901439d">
+<img width="1739" alt="Screenshot 2023-06-16 at 01 23 08" src="https://github.com/AdityaBhate/stake-count-dashboard/assets/98549181/5f078f69-0e26-45f6-8b62-6a511244718c">
 
 ![63f48203-299a-4b5d-9818-8641047abefc](https://github.com/Shrey-Srivastava21/Demooooooo/assets/84815622/6b10a447-d27c-4ce9-9dc3-aed33c60bf75)
 ![84df920f-0837-47fa-a293-d21252dda4d0](https://github.com/Shrey-Srivastava21/Demooooooo/assets/84815622/3f5a7ad5-5859-471f-9003-b56cc7b53c74)
