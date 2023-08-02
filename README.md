@@ -3,7 +3,7 @@
 ## Submission for Luganodes SDE Hiring Task📊
 
 <p align="center">
-  <img src="https://github.com/Shrey-Srivastava21/Demooooooo/assets/84815622/9ff3f585-8520-4d76-a112-9ba671438b02" />
+  <img src="https://github.com/Shrey-Srivastava21/Luganodes_SDE_Task_2/assets/84815622/8d177ba1-c81d-473c-aeee-9040a8980e87" />
 </p>
 
 ## Main Page of Website📌
@@ -11,9 +11,9 @@
 <img width="1739" alt="Screenshot 2023-06-16 at 01 23 08" src="https://github.com/AdityaBhate/stake-count-dashboard/assets/98549181/609fe975-7bfe-4eb6-b80e-9fb2c901439d">
 <img width="1739" alt="Screenshot 2023-06-16 at 01 23 08" src="https://github.com/AdityaBhate/stake-count-dashboard/assets/98549181/5f078f69-0e26-45f6-8b62-6a511244718c">
 
-![63f48203-299a-4b5d-9818-8641047abefc](https://github.com/Shrey-Srivastava21/Demooooooo/assets/84815622/6b10a447-d27c-4ce9-9dc3-aed33c60bf75)
-![84df920f-0837-47fa-a293-d21252dda4d0](https://github.com/Shrey-Srivastava21/Demooooooo/assets/84815622/3f5a7ad5-5859-471f-9003-b56cc7b53c74)
-![ac3ad558-c46a-44a5-9e3f-b892324870b4](https://github.com/Shrey-Srivastava21/Demooooooo/assets/84815622/63c36540-efb8-490f-b519-1fea23a33a77)
+![7b1885ca-8d18-430a-8ccf-aca3bc9e8c68](https://github.com/Shrey-Srivastava21/Luganodes_SDE_Task_2/assets/84815622/d5881c43-2c7d-4a47-81a2-00172a16f262)
+![ea7eba74-859e-4615-bc10-a3c3ef39448a](https://github.com/Shrey-Srivastava21/Luganodes_SDE_Task_2/assets/84815622/2979ed97-7588-405f-ab67-9317ccf2a777)
+![bed1e96f-ebad-4a08-b5c6-a47228d933b2](https://github.com/Shrey-Srivastava21/Luganodes_SDE_Task_2/assets/84815622/cee75829-a3e8-418c-974e-383eadc17e8d)
 
 
 ## Description:
